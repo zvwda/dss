@@ -1,0 +1,6 @@
+,0,1,20,2,,oop;
+pp,122,1,188,2,ww,ww;ee;ee;
+ai,1111,1,1222,3,qq,ds;as;ww;qq;
+ds,123,1,122,3,ew,oop;sp;
+archi,23,0,133,4,sddd,logic;dssss;
+or,222,1,166,4,qw,stat;prob;
